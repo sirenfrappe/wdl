@@ -1,0 +1,9 @@
+{
+  "nominal.nominal_pass.cov_file": "File",
+  "nominal.nominal_pass.out_name": "String",
+  "nominal.nominal_pass.vcf_file": "File",
+  "nominal.nominal_pass.bed_file_index": "File",
+  "nominal.nominal_pass.qtltools_path": "File",
+  "nominal.nominal_pass.bed_file": "File"
+}
+
